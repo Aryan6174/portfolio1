@@ -1,0 +1,37 @@
+.main{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.one{
+    height: 10vh;
+}
+.pic
+{
+    background-image: url(../RYN.jpg);
+    height: 400px;
+    width: 300px;
+    background-position: center;
+    /* background-size: 100% 100%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+  .css-button-rounded--blue {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: 2px solid #5236a7;
+    background: #5236a7;
+  }
+  .css-button-rounded--blue:hover {
+    background: #fff;
+    color: #5236a7
+  }
